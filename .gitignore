@@ -1,0 +1,15 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Ignore swap and backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
